@@ -1,0 +1,5 @@
+tess4j:
+#  填写存放语言库的文件夹路径
+  dataPath: G:\tessdata
+#  语言库写死
+  language: chi_sim
